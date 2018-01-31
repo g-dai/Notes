@@ -1,0 +1,4 @@
+//50% chance of getting a number
+
+if (random(10), <5) {
+}
